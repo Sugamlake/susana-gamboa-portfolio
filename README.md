@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 💼 Susana Gamboa — Growth Marketing & Automation Architect  
 
 **Arquitectura de Crecimiento y Automatización de Precisión**  
@@ -43,6 +39,29 @@ He desarrollado **arquitecturas de crecimiento y automatización** para sectores
 - **Leadership:** Equipos cross-functional, documentación, mejora continua  
 
 ---
+
+## ⚖️ Ética, Protección de Datos y Buenas Prácticas  
+
+>### ⚖️ Protección de Datos y Cumplimiento  
+>Este portafolio presenta **evidencias seguras y adaptadas**, alineadas con normativas internacionales como **HIPAA**, **GDPR** y políticas internas de confidencialidad.  
+> No se incluyen datos reales de pacientes, clientes ni información propietaria sensible.
+
+>### 🛡️ Anti-Plagio y Propiedad Intelectual  
+>Parte del código, documentación y arquitectura ha sido deliberadamente ajustada para prevenir el **uso indebido o plagio**.  
+>El contenido refleja mi experiencia y resultados reales, pero sin exponer componentes críticos ni configuraciones sensibles.
+
+>### 🚀 Buenas Prácticas Profesionales
+>- ✅ Métricas de impacto (antes/después, % de mejora, KPIs clave).  
+>- ✅ Datos sintéticos y escenarios simulados para fines demostrativos.  
+>- ✅ Arquitecturas modulares, auditables y reproducibles.  
+>- ✅ Seguridad, precisión y evidencia medible en todos los proyectos.
+
+>### 📏 Línea Ética Profesional  
+>La confidencialidad, la protección de datos y la integridad profesional son principios rectores en mi forma de trabajar.  
+>Cada proyecto publicado está diseñado para demostrar mis competencias de manera **ética, responsable y técnicamente impecable**.
+
+---
+
 
 ## 🏗️ Filosofía y Método de Trabajo
 
@@ -93,6 +112,14 @@ He desarrollado **arquitecturas de crecimiento y automatización** para sectores
 | 🧩 Escalabilidad | Ecosistemas que se adaptan al crecimiento del negocio |
 
 ---
+## 🧩 Highlights Técnicos
+
+- CI/CD con GitHub Actions (lint + test automático)  
+- Auditorías sintéticas y logs anonimizados  
+- Arquitecturas reproducibles con entornos virtuales controlados
+  
+---
+
 
 ## 🤖 Entorno Técnico
 
@@ -106,7 +133,7 @@ pip install -r requirements.txt
 
 # Ejecución de tests
 pytest
-````
+```
 
 ---
 
@@ -122,19 +149,12 @@ pytest
 
 ## 🌐 Conexión Profesional
 
-📧 [Email](mailto:contact@susana-gamboa.com)
-💼 [LinkedIn](https://www.linkedin.com/in/susana-gamboa)
-🐙 [GitHub](https://github.com/Sugamlake)
+📧 [Email](mailto:contact@susana-gamboa.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/susana-gamboa)  
+🐙 [GitHub](https://github.com/Sugamlake)  
 📍 Puerto Varas, Chile · Remoto LATAM / Europa
 
 ---
 
-> *“Donde marketing, ingeniería y analítica se convierten en arquitectura de crecimiento.”*
+> *"Donde marketing, ingeniería y analítica se convierten en arquitectura de crecimiento."*  
 > — Susana Gamboa
-
----
-
-```
-
-
-
