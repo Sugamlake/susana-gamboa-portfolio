@@ -1,34 +1,3 @@
-
----
-
-### 🧩 Objetivo
-
-Crear un README que funcione como una **pieza de consultoría técnica**, no como documentación de desarrollo.
-Debe transmitir:
-
-* Precisión y dominio técnico.
-* Método estructurado y ético.
-* Impacto medible y trazabilidad.
-* Lenguaje profesional pero cercano.
-
----
-
-### 📜 Estructura del documento
-
-1. **Encabezado profesional + contexto**
-2. **Resumen ejecutivo (problema / solución / impacto)**
-3. **Arquitectura visual (mermaid o tabla)**
-4. **Stack técnico clave**
-5. **Seguridad y gobernanza (mencionada, no revelada)**
-6. **Evidencias sintéticas (antes / después / KPIs)**
-7. **Impacto / resultados esperados**
-8. **Cumplimiento ético y licencia**
-
----
-
-### ✅ Contenido propuesto (v1.0 listo para pegar)
-
-````markdown
 # 🔎 Lead Intelligence & Auto-Scoring  
 **Ecosistema de Enriquecimiento y Calificación Inteligente de Leads**  
 Automatización integral que transforma datos dispersos en inteligencia accionable, conectando CRM, IA y analítica para decisiones comerciales precisas.
@@ -61,15 +30,14 @@ graph TD
   D --> E[HubSpot CRM: Upsert + Dedupe + Segmentación]
   E --> F[Alertas: Slack / Email + Logging estructurado]
   F --> G[Dashboard: KPIs de Revenue Intelligence]
-````
+```
 
 **Principios de diseño:**
-
-* Modularidad y resiliencia
-* Reintentos idempotentes
-* Logs anonimizados
-* Data contracts validados
-* Escalabilidad progresiva
+- Modularidad y resiliencia  
+- Reintentos idempotentes  
+- Logs anonimizados  
+- Data contracts validados  
+- Escalabilidad progresiva  
 
 ---
 
@@ -89,12 +57,11 @@ graph TD
 ## 🔐 Seguridad y Gobernanza
 
 **Estándares aplicados:**
-
-* Minimización de datos (solo campos estrictamente necesarios)
-* Logs anonimizados (hash y truncamiento de PII)
-* Variables sensibles gestionadas con `.env` y no expuestas en repositorio
-* Cumplimiento referencial: **GDPR · HIPAA · Privacy by Design**
-* Gobernanza activa: ADRs, matriz de riesgo, control de cambios documentado
+- Minimización de datos (solo campos estrictamente necesarios)  
+- Logs anonimizados (hash y truncamiento de PII)  
+- Variables sensibles gestionadas con `.env` y no expuestas en repositorio  
+- Cumplimiento referencial: **GDPR · HIPAA · Privacy by Design**  
+- Gobernanza activa: ADRs, matriz de riesgo, control de cambios documentado  
 
 > *La gobernanza completa se mantiene privada por motivos de confidencialidad, pero cada flujo se diseña y valida bajo estos lineamientos.*
 
@@ -145,26 +112,19 @@ def score_leads(lead):
 
 ## 🧩 Cumplimiento Ético
 
-> Todos los datos y ejemplos son **sintéticos** y **simulados**.
-> Este proyecto se presenta exclusivamente con fines demostrativos, sin exposición de información propietaria o sensible.
+> Todos los datos y ejemplos son **sintéticos** y **simulados**.  
+> Este proyecto se presenta exclusivamente con fines demostrativos, sin exposición de información propietaria o sensible.  
 > Refleja metodologías y resultados reales, pero en un entorno protegido y reproducible.
 
 ---
 
 ## 📜 Licencia
 
-**MIT License — Susana Gamboa (2025)**
-Uso referencial y educativo permitido.
+**MIT License — Susana Gamboa (2025)**  
+Uso referencial y educativo permitido.  
 Prohibido el uso comercial o la reproducción total sin autorización expresa.
 
 ---
 
-> *"Arquitectura de crecimiento: donde precisión, ética y tecnología convergen."*
+> *"Arquitectura de crecimiento: donde precisión, ética y tecnología convergen."*  
 > — Susana Gamboa
-
-```
-
----
-🔎 Lead Intelligence & Auto-Scoring
-```
-
