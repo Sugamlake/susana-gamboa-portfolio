@@ -1,0 +1,35 @@
+name: CI - Lead Intelligence Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install pytest flake8
+
+      - name: 🔍 Linting de código
+        run: |
+          echo "Ejecutando flake8..."
+          flake8 projects/lead-intelligence/src --max-line-length=120
+
+      - name: 🧪 Ejecutar tests unitarios
+        run: |
+          echo "Ejecutando pytest..."
+          pytest -v projects/lead-intelligence/tests
