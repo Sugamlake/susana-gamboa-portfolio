@@ -1,7 +1,10 @@
 
 <p align="center">
-  <img src="../../logo-MP.png" alt="Mercado Público Logo" width="120"/>
+  <img src="../../logo-MP.png" alt="Mercado Público Logo" width="150"/>
 </p>
+
+# 🧠 TenderWin — Inteligencia Licitatoria y Adjudicaciones
+
 
 
 # 🧠 TenderWin — Inteligencia Licitatoria y Adjudicaciones 
@@ -29,6 +32,45 @@ seguridad y cumplimiento regulatorio total.
 - 🧩 Estandarizar flujos de búsqueda, análisis y generación documental  
 - 💼 Aumentar la tasa de adjudicación en **+35 %**  
 - 🔒 Mantener propiedad y seguridad local del sistema  
+
+---
+
+---
+
+## 📈 Qué es TenderWin y por qué es diferente  
+
+**TenderWin** es una herramienta de **inteligencia licitatoria** diseñada para ayudar a empresas proveedoras del Estado a **ahorrar tiempo, evitar errores y aumentar su tasa de adjudicación** en procesos de compras públicas.  
+
+En lugar de depender de procesos manuales —como buscar licitaciones en Mercado Público, revisar PDF de bases técnicas o llenar formularios uno a uno—, TenderWin **automatiza todo el flujo**, desde la búsqueda hasta la generación final de la propuesta.  
+
+### 💡 ¿Qué problemas soluciona?
+| Desafío Tradicional | Cómo lo resuelve TenderWin |
+|----------------------|----------------------------|
+| ⏳ Procesos lentos y manuales | Automatiza búsqueda, clasificación y carga de bases |
+| 📄 Lectura y análisis de PDFs extensos | Extrae requisitos y valida cumplimiento automáticamente |
+| 📑 Documentación desordenada o repetitiva | Gestiona versiones y plantillas centralizadas |
+| ⚠️ Errores humanos en formularios | Genera propuestas autocompletadas y validadas |
+| 💰 Altos costos operativos | Reduce horas de trabajo y maximiza eficiencia |
+| 📊 Falta de estrategia | Prioriza licitaciones con mayor probabilidad de adjudicación |
+
+### 🚀 Beneficios Clave  
+- **Ahorro de tiempo:** reduce hasta un **85 %** el tiempo total de postulación.  
+- **Aumento de adjudicaciones:** mejora las tasas de éxito gracias al análisis inteligente.  
+- **Seguridad total:** opera **100 % offline**, manteniendo la confidencialidad de la información.  
+- **Escalabilidad modular:** adaptable a distintos rubros y tipos de licitación.  
+- **Propiedad privada:** todo el conocimiento y datos permanecen en manos de la usuaria.  
+
+### ⚖️ Comparativa con un sistema análogo  
+| Característica | Sistema Tradicional | **TenderWin** |
+|----------------|---------------------|----------------|
+| Ejecución | Manual, dependiente de usuario | Automatizada, guiada por IA |
+| Acceso a datos | Lento, disperso, repetitivo | Centralizado y en tiempo real |
+| Análisis técnico | Subjetivo | Estandarizado con reglas validadas |
+| Seguridad | Riesgo de exposición o pérdida | 100 % local y privada |
+| Escalabilidad | Limitada a un rubro o equipo | Modular y multi-rubro |
+| ROI estimado | 1x (sin retorno medible) | 5–7x en eficiencia operativa |
+
+> 💬 *En resumen, TenderWin no reemplaza la estrategia humana: la amplifica, garantizando precisión, cumplimiento y velocidad en cada postulación.*
 
 ---
 
