@@ -1,7 +1,12 @@
 
-# 🧠 TenderWin — Inteligencia Licitatoria Local y Autónoma  
+<p align="center">
+  <img src="../../logo-MP.png" alt="Mercado Público Logo" width="120"/>
+</p>
 
-**Sistema de Inteligencia Licitatoria Local y Autónomo — Propiedad Exclusiva de Susana Gamboa**  
+
+# 🧠 TenderWin — Inteligencia Licitatoria y Adjudicaciones 
+
+**Sistema de Inteligencia Licitatoria y Adjudicaciones — Propiedad Exclusiva de Susana Gamboa**  
 Versión 1.0 · Octubre 2025  
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
@@ -20,9 +25,9 @@ Combina **IA aplicada**, **análisis documental** y **automatización ética** p
 seguridad y cumplimiento regulatorio total.  
 
 **Objetivos estratégicos:**  
-- 🕒 Reducir el tiempo de postulación de 12 h a **45 min**  
+- 🕒 Reducir el tiempo de postulación de 24-48 h a **45 min**  
 - 🧩 Estandarizar flujos de búsqueda, análisis y generación documental  
-- 💼 Aumentar la tasa de adjudicación en **+25 %**  
+- 💼 Aumentar la tasa de adjudicación en **+35 %**  
 - 🔒 Mantener propiedad y seguridad local del sistema  
 
 ---
@@ -63,47 +68,6 @@ graph TD
 | 7 | Scoring | `scoring_engine.py` | Calcula score de adjudicación | ✅ |
 | 8 | Exportador | `exporter.py` | Empaqueta ZIP final | ✅ |
 | 9 | Dashboard | `ui_dashboard.py` | Interfaz local de visualización | 🚧 |
-
----
-
-## 🧱 Estructura de Archivos  
-
-```
-TenderWin/
-│
-├── data/
-│   ├── input/        # CSV, PDFs, DOCX
-│   ├── processed/    # Datos limpios
-│   └── output/       # Propuestas y reportes
-│
-├── src/
-│   ├── scraper_loader.py
-│   ├── licitations_analyzer.py
-│   ├── pdf_parser.py
-│   ├── proposal_generator.py
-│   ├── compliance_checker.py
-│   ├── scoring_engine.py
-│   ├── exporter.py
-│   ├── ui_dashboard.py
-│   └── main.py
-│
-├── tests/
-│   ├── test_parser.py
-│   ├── test_scoring.py
-│   ├── test_proposals.py
-│   └── test_integration.py
-│
-├── docs/
-│   ├── arquitectura.md
-│   ├── casos_uso.md
-│   ├── evidencia/
-│   └── seguridad.md
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── .github/workflows/ci.yml
-```
 
 ---
 
@@ -191,13 +155,6 @@ detecta oportunidades, evalúa compatibilidad técnica y genera propuestas con u
 
 ---
 
-## 🔬 Cierre Técnico y Recomendaciones  
-
-Para alcanzar un **100 / 100 óptimo** se recomienda:  
-- Completar módulos “en desarrollo” (`parser_pdf`, `compliance_checker`, `ui_dashboard`)  
-- Integrar auditorías automáticas y retroalimentación continua  
-- Fortalecer seguridad avanzada y análisis de riesgo  
-
 > En su estado actual, **TenderWin v1.0** constituye una base sólida, profesional y viable  
 > para un sistema robusto, privado y éticamente gestionado.  
 
@@ -205,7 +162,7 @@ Para alcanzar un **100 / 100 óptimo** se recomienda:
 
 ## ✅ Conclusión  
 
-> *TenderWin* establece el estándar técnico y ético para la automatización licitatoria local:  
+> *TenderWin* establece el estándar técnico y ético para la automatización licitatoria de Chile Compra y derivados:  
 > un sistema independiente, seguro y transparente, preparado para evolucionar hacia  
 > **TenderWin v2.0**, con IA aplicada y analítica predictiva.  
 
