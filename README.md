@@ -59,7 +59,7 @@ He desarrollado **arquitecturas de crecimiento y automatización** para sectores
 | Proyecto | Descripción | Stack | Estado |
 |-----------|--------------|-------|---------|
 | [🔎 Lead Intelligence & Auto-Scoring](./projects/lead-intelligence/README.md) | Enriquecimiento y clasificación automática de leads (Python + n8n + HubSpot) | Python · n8n · HubSpot | ✅ Activo |
-| WebVitals Blueprint Optimization *(Próximamente)* | Optimización predictiva del performance web con IA | Python · Lighthouse API · ML | 🧩 En desarrollo |
+| [📊 TenderWin — Inteligencia Licitatoria](./projects/tenderwin/README.md) | Automatización inteligente de búsqueda, análisis y propuestas para licitaciones públicas | Python · Local · IA | ✅ Activo |
 | Snoopy Enterprise *(Próximamente)* | Gestión de partners, comisiones y revenue forecasting | Python · HubSpot API · n8n | 🧩 En desarrollo |
 | Telehealth Growth Pipeline *(Próximamente)* | Sistema automatizado de adquisición y reporting para HealthTech | Python · n8n · GA4 | 🧩 En desarrollo |
 
