@@ -1,10 +1,7 @@
 
 <p align="center">
-  <img src="../../logo-MP.png" alt="Mercado Público Logo" width="150"/>
+  <img src="../../logo-MP.png" alt="Mercado Público Logo" width="300"/>
 </p>
-
-# 🧠 TenderWin — Inteligencia Licitatoria y Adjudicaciones
-
 
 
 # 🧠 TenderWin — Inteligencia Licitatoria y Adjudicaciones 
@@ -32,8 +29,6 @@ seguridad y cumplimiento regulatorio total.
 - 🧩 Estandarizar flujos de búsqueda, análisis y generación documental  
 - 💼 Aumentar la tasa de adjudicación en **+35 %**  
 - 🔒 Mantener propiedad y seguridad local del sistema  
-
----
 
 ---
 
